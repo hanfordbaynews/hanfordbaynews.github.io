@@ -1,0 +1,13 @@
+.affix {
+  position: fixed;
+  top: 10px;
+  width: 265px;
+}
+iframe[seamless] {
+    border: none;
+}
+
+.container .jumbotron h1{
+	text-align: center;
+	font-family: fantasy;
+}
